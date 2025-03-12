@@ -1,3 +1,4 @@
+;aiu;
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <DOCUMENT Type="Advanced Installer" CreateVersion="19.3" version="19.3" Modules="update" RootPath="." Language="en" Id="{436F13B7-9B95-46B9-9AEB-811600D5FCB3}">
   <COMPONENT cid="caphyon.advinst.msicomp.ProjectOptionsComponent">
