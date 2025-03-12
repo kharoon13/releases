@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="19.3" version="19.3" Modules="update" RootPath="." Language="en" Id="{436F13B7-9B95-46B9-9AEB-811600D5FCB3}">
+  <COMPONENT cid="caphyon.advinst.msicomp.ProjectOptionsComponent">
+    <ROW Name="HiddenItems" Value="TilesComponent;ActSyncAppComponent;AutorunComponent;CPLAppletComponent;GameUxComponent;SilverlightSlnComponent"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.UpdaterEditorComponent">
+    <ROW Section="Update" Key="Name" Value="Demon Slayer New Era Auto Bot"/>
+    <ROW Section="Update" Key="ProductVersion" Value="2.0.0" ValueLocId="-"/>
+    <ROW Section="Update" Key="URL" Value="https://raw.githubusercontent.com/kharoon13/releases/refs/heads/main/Demon Slayer New Era Auto Bot.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="Size" Value="Demon Slayer New Era Auto Bot-SetupFiles\Demon Slayer New Era Auto Bot.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="SHA256" Value="Demon Slayer New Era Auto Bot-SetupFiles\Demon Slayer New Era Auto Bot.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="MD5" Value="Demon Slayer New Era Auto Bot-SetupFiles\Demon Slayer New Era Auto Bot.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="ServerFileName" Value="Demon Slayer New Era Auto Bot.msi" ValueLocId="-"/>
+    <ROW Section="Update" Key="RegistryKey" Value="HKUD\Software\Kharoon\Demon Slayer New Era Auto Bot\Version" ValueLocId="-"/>
+    <ROW Section="Update" Key="Version" Value="2.0.0" ValueLocId="-"/>
+    <ROW Section="Update" Key="Description" Value="new duzen"/>
+    <ATTRIBUTE name="OutputFileName" value=".txt"/>
+  </COMPONENT>
+</DOCUMENT>
