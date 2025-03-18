@@ -1,0 +1,15 @@
+;aiu;
+
+[Update]
+Name = Demon Slayer New Era 3 Auto Bot
+ProductVersion = 1.2.0.0
+URL = https://sourceforge.net/projects/demon-slayer-new-era-auto-bot/files/version/Demon%20Slayer%20New%20Era%203%20Auto%20Bot.exe/download
+Size = 11138754
+SHA256 = BB16178390FC84543A2F9E224A0AF0B227510E8478A91E811C5C57273DFC2FF5
+MD5 = 7ba396c35da7e3b9483d0e8954a07074
+ServerFileName = Demon Slayer New Era 3 Auto Bot.exe
+Flags = Critical
+RegistryKey = HKUD\Software\KHAROON\Demon Slayer New Era 3 Auto Bot\Version
+Version = 1.2.0.0
+Description = Demon Salyer New Era  Update Version 1.2.0 
+BugFix = Bugs fixed
