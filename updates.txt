@@ -10,5 +10,5 @@ MD5 = f4984bd3142ee8aefe84ab97d7259ace
 ServerFileName = Demon Slayer New Era 3 Auto Bot v2.0.exe
 Flags = Critical
 RegistryKey = HKUD\Software\KHAROON\Demon Slayer New Era 3 Auto Bot\Version
-Version = 2.0.0.0
+Version = 2.1.0.0
 Description = Demon Slayer New Era 3 Version 2.0
