@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = Demon Slayer New Era 3 Oto Bot
+ProductVersion = 2.0.0.0
+URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Demon%20Slayer%20New%20Era%203%20Oto%20Bot.exe
+Size = 10323639
+SHA256 = 921BBF38A8AECD62FF30C7E6FAACD12B3D8F53BF28DEC347EAA1A0322C093200
+MD5 = f0da4feeb54792fc2fae434a2734ac8d
+ServerFileName = Demon Slayer New Era 3 Oto Bot 2.exe
+RegistryKey = HKUD\Software\KHAROON\Demon Slayer New Era 3 Oto Bot\Version
+Version = 2.0.0.0
+Description = Demon Slayer New Era 3 Oto Bot
