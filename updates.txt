@@ -8,5 +8,6 @@ Size = 16046467
 SHA256 = A2AB23B85332B3CE9C4C121F7F5D1D0089EB27579600C258BC990104EF19A07F
 MD5 = 86dc2804a32a2d01366e5a7137c6af19
 ServerFileName = Demon Slayer New Era 3 Oto Bot 4.3.3.exe
+Flags = Critical
 RegistryKey = HKUD\Software\KHAROON\Demon Slayer New Era 3 Oto Bot\Version
 Version = 4.3.3.0
