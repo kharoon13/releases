@@ -2,12 +2,12 @@
 
 [Update]
 Name = Demon Slayer New Era 3 Oto Bot
-ProductVersion = 4.3.3.0
-URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Demon%20Slayer%20New%20Era%203%20Oto%20Bot%204.3.3.exe
-Size = 16046467
-SHA256 = 962A71966DED0B52D9851BC62E9BDA163D70D3897EECBEC4996C2CF56C07A24B
-MD5 = 11915f2fd645de8dce7d5655b34b2f14
-ServerFileName = Demon Slayer New Era 3 Oto Bot 4.3.3.exe
+ProductVersion = 4.3.4.0
+URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Demon%20Slayer%20New%20Era%203%20Oto%20Bot%204.3.4.exe
+Size = 16235591
+SHA256 = 04518A5866AA8A544CB8AB2C3449F9C91B5DE796865F21AA5A0E0F241BFC79A7
+MD5 = 3363d32858fe364185d01f474b4ba9e1
+ServerFileName = Demon Slayer New Era 3 Oto Bot 4.3.4.exe
 Flags = Critical
 RegistryKey = HKUD\Software\KHAROON\Demon Slayer New Era 3 Oto Bot\Version
-Version = 4.3.3.0
+Version = 4.3.4.0
