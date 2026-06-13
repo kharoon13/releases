@@ -2,17 +2,11 @@
 
 [Update]
 Name = Demon Slayer New Era 3 Hizli & Bot
-ProductVersion = 4.3.9.0
-<<<<<<< HEAD
-URL = https://github.com/kharoon13/releases/blob/main/Demon%20Slayer%20New%20Era%203%20Oto%20Bot%204.3.9.exe
-=======
-URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Demon%20Slayer%20New%20Era%203%20Oto%20Bot%204.3.9.exe
->>>>>>> 5fec0be55325836d1e4dec3842bdb5135032acbf
-Size = 179032745
-ReleaseDate = 13/06/2026
-SHA256 = 1C76F42B93BA1220E2C34337CBF3BA0E4CE17137DB77EA670E13B9C896D58AAA
-MD5 = a9a6deaaae867633ea6baacaf64466b2
-ServerFileName = Demon Slayer New Era 3 Oto Bot 4.3.9.exe
-Flags = Critical
+ProductVersion = 4.4.0.0
+URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Demon%20Slayer%20New%20Era%203%20Oto%20Bot%204.4.0.exe
+Size = 179060374
+SHA256 = 71138877B0C26E9C466634FFBEB698AB785FA416CA8015D173982F231BA67D89
+MD5 = defa50cb341276e1513941eb6d310351
+ServerFileName = Demon Slayer New Era 3 Oto Bot 4.4.0.exe
 RegistryKey = HKUD\Software\KHAROON\Demon Slayer New Era 3 Hizli & Bot\Version
-Version = 4.3.9.0
+Version = 4.4.0.0
