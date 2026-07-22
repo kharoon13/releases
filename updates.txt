@@ -2,13 +2,11 @@
 
 [Update]
 Name = Thor Client
-ProductVersion = 4.5.6.0
-URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Demon%20Slayer%20New%20Era%203%20Oto%20Bot%204.5.6.exe
-Size = 112665676
-ReleaseDate = 21/07/2026
-SHA256 = CE9308B6B886016876A70743BE72A934BF885E5B72FDD5015679393D967AC9B1
-MD5 = f0bd0977fdbfdae0c45341cd1c64906a
-ServerFileName = Demon Slayer New Era 3 Oto Bot 4.5.6.exe
-Flags = Critical
+ProductVersion = 5.0.0.0
+URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Thor%20Client.exe
+Size = 125021534
+SHA256 = 9B02D15EC09935C306272997A101F9F7A9F5B5A719C74B92CB8CFC93BC34D158
+MD5 = 90bfe7c8b39f414ea3537d63a04a86ff
+ServerFileName = Thor Client.exe
 RegistryKey = HKUD\Software\Thor\Thor Client\Version
-Version = 4.5.6.0
+Version = 5.0.0.0
