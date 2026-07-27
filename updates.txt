@@ -2,13 +2,13 @@
 
 [Update]
 Name = Thor Client
-ProductVersion = 5.0.1.0
-URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Thor%20Client%205.0.1.exe
-Size = 125988505
-ReleaseDate = 23/07/2026
-SHA256 = 507283DBBBC787891355FC6B3414701F62C96BCC79332D4496AFEE1791E305A7
-MD5 = 03d51a4408997ac2fa5ce454fba615cd
-ServerFileName = Thor Client 5.0.1.exe
+ProductVersion = 5.0.2.0
+URL = https://github.com/kharoon13/releases/raw/refs/heads/main/Thor%20Client%205.0.2.exe
+Size = 127632478
+ReleaseDate = 27/07/2026
+SHA256 = FAA74B05410E4197174624954C00D6662D481D9BFFD94B9338502EF0194D79F7
+MD5 = a471bd813aa74ff4e71fdba0951babef
+ServerFileName = Thor Client 5.0.2.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Thor\Thor Client\Version
-Version = 5.0.1.0
+Version = 5.0.2.0
